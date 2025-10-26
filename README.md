@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eduardomayora, I live in La Plata, Argentina and I´m a computer scienst, age 62.
+- 👋 Hi, I’m @eduardomayora, I live in La Plata, Argentina and I´m a computer scienst.
 - 👀 I’m interested in Data Science and Web app development
 - 🌱 I’m woking in projects based on Python and AI APIs
 - 💞️ I’m looking to collaborate on framework and components development
